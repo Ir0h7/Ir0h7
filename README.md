@@ -15,6 +15,6 @@
 [![](https://visitcount.itsvg.in/api?id=Ir0h7&icon=0&color=12)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-- 🔭 I’m currently working on monopoly
-- 🌱 I’m currently learning Python
+- 🔭 I’m currently working on modeling of transportation systems and 2D roguelite
+- 🌱 I’m currently learning C#
 - 📫 How to reach me: ...
